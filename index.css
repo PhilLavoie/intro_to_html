@@ -13,9 +13,6 @@ h1 {
     border-image-slice: 612 599;
     border-image-repeat: repeat;
     border-image-source: url(cat.jpg);
-    /*border-image-width: 10px;*/
-    /*border-image-repeat: repeat;*/
-    /*border-image-outset: 10px;*/
     color: aquamarine;
     font-size: 28px;
 }
